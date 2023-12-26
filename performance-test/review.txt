@@ -1,0 +1,4 @@
+Tes ini menunjukkan seberapa cepat bahasa pemrograman dalam mengeksekusi dari angka 1 hingga 100 juta
+
+1. Python = 4.1595568 detik
+2. C++ = 0.0507079 detik
