@@ -1,0 +1,1 @@
+kode ini untuk memeriksa apakah integer tersebut merupakan bilangan prima atau tidak
