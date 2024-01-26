@@ -1,6 +1,6 @@
 // instal package axios terlebih dahulu
 // $npm install axios
-// node bored-api
+// $node bored-api
 
 
 const req = require('axios')
